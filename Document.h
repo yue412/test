@@ -24,6 +24,7 @@ private:
     std::map<int, Entity*> m_oEntityMap;
 };
 
+// µü´úÆ÷
 class DocumentIterator
 {
 public:
