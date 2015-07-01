@@ -13,6 +13,7 @@ namespace glodon {
 namespace objectbuf {
 
 // hehe next1
+// branch dev
 class Writer
 {
 public:
