@@ -15,6 +15,7 @@ namespace objectbuf {
 // hehe next1
 // branch dev
 // feature1
+// featrue2
 class Writer
 {
 public:
