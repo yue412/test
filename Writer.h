@@ -14,6 +14,7 @@ namespace objectbuf {
 
 // hehe next1
 // branch dev
+// trunk ya
 class Writer
 {
 public:
