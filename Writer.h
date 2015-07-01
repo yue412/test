@@ -12,7 +12,7 @@
 namespace glodon {
 namespace objectbuf {
 
-// hehe gege
+// hehe next1
 class Writer
 {
 public:
