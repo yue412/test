@@ -11,7 +11,7 @@ namespace objectbuf {
 
 class DocumentIterator;
 
-//
+// aaa
 class Document
 {
 public:
