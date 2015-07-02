@@ -16,6 +16,7 @@ class FieldCacheInitializer;
 typedef void (*RegSchemaInfoProc) (Reader* reader);
 typedef void (*FieldCacheProc) ();
 
+///////////////////////////////////////////////////////////////
 class Reader
 {
 public:
