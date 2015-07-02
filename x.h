@@ -33,6 +33,7 @@ private:
     std::map<int, EntityFactory*> m_oFactoryList;
     FieldCacheProc m_pFreeProc;
 };
+//==============================================================
 
 }
 }
